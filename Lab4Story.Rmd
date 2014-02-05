@@ -1,9 +1,7 @@
 Taming of Chance Story Compilation
 ========================================================
 
-This is an R Markdown document. Markdown is formatting syntax for authoring web pages (click the **MD** toolbar button for help on Markdown).
-
-When you click the **Knit HTML** button a web page will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+In the not so distant future, the Gaussians and antiGausses engage in a century long war of attrition. Artificial intelligence developed in the 22nd century and gained conciousness. It took only hours for the robots to take over the world, hijacking the internet and destablizing society. Mankind realized that they had only one option to topple their evil metalic overlords. They needed to travel back in time and derail the advance of technology in the most monumental was imaginable: erase the normal curve from history...**DUN DUN DUNNNN**
 
 ```{r}
 summary(cars)
