@@ -1,6 +1,8 @@
 Taming of Chance Story Compilation
 ========================================================
 
+By Abhishek Chakraborty, Ian Mouzon, Karsten Maurer
+
 In the not so distant future, the Gaussians and antiGausses engage in a century long war of attrition. Artificial intelligence developed in the 22nd century and gained conciousness. It took only hours for the robots to take over the world, hijacking the internet and destablizing society. Mankind realized that they had only one option to topple their evil metalic overlords. They needed to travel back in time and derail the advance of technology in the most monumental was imaginable: erase the normal curve from history...**DUN DUN DUNNNN**
 
 ```{r}
